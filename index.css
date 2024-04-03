@@ -105,34 +105,34 @@ margin-left: 40px;
 }
 
 .sec2{
-    background-image: url("/580b57fcd9996e24bc43c1b5.png");
+    background-image: url("580b57fcd9996e24bc43c1b5.png");
     background-size: 100% 100%;
     animation: imgside 35s infinite ;
    animation-timing-function: step-start;
 }
 @keyframes imgside {
    0%{
-    background-image: url("/580b57fcd9996e24bc43c1b6.png");
+    background-image: url("580b57fcd9996e24bc43c1b6.png");
     background-size: 50% 100%;
     background-repeat: no-repeat;
    } 
    25%{
-    background-image: url("/580b57fcd9996e24bc43c1b9.png");
+    background-image: url("580b57fcd9996e24bc43c1b9.png");
     background-size: 50% 100%;
     background-repeat: no-repeat;
    } 
    50%{
-    background-image: url("/580b57fcd9996e24bc43c1bc.png");
+    background-image: url("580b57fcd9996e24bc43c1bc.png");
     background-size: 50% 100%;
     background-repeat: no-repeat;
    }
    70%{
     background-size: 50% 100%;
     background-repeat: no-repeat;
-    background-image: url("/580b57fcd9996e24bc43c1bc.png");
+    background-image: url("580b57fcd9996e24bc43c1bc.png");
    }
    100%{
-    background-image: url("/580b57fcd9996e24bc43c1b6.png");
+    background-image: url("580b57fcd9996e24bc43c1b6.png");
     background-size: 50% 100%;
     background-repeat: no-repeat;
    }  
